@@ -3,7 +3,7 @@
 ## Giveaways
 
 {% hint style="info" %}
-MANAGE\_MESSAGES Permissions Required To Start/End A Giveaway
+`MANAGE_MESSAGES` Permissions Required To Start/End A Giveaway
 {% endhint %}
 
 <table>
