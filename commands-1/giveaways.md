@@ -41,7 +41,7 @@ MANAGE\_MESSAGES Permissions Required To Start/End A Giveaway
   </tbody>
 </table>
 
-![](../.gitbook/assets/8bee0715c879b861dade18a4e1ac75df.png)
+![](../.gitbook/assets/de30f11adeec5858f5fceb3c4f5ee820.png)
 
 ### Giveaway Requirements So Far
 
