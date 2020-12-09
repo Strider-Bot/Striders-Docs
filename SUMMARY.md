@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Privacy Policy](server-settings.md)
 * [Setup](setting-up-strider.md)
 
 ## COMMANDS: <a id="commands-1"></a>
@@ -12,8 +13,4 @@
 * [Leveling / Fun Commands](commands-1/fun.md)
 * [Giveaways Commands](commands-1/giveaways.md)
 * [AutoMod Commands](commands-1/automod.md)
-
----
-
-* [Server Settings](server-settings.md)
 
