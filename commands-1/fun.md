@@ -23,4 +23,5 @@ Normal 15% XP Rate and 18% XP Rate Boost After [Voting](https://top.gg/bot/76508
 | `$hack (User)` | Hacks A User |
 | `$topic` | Bring Up A Topic |
 | `$wyr` | Would You Rather |
+| `$playstore (App-Name)` | Search For Play Store App |
 
