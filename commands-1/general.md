@@ -1,5 +1,5 @@
 ---
-description: User Commands - Non Admin
+description: User Commands
 ---
 
 # Info Commands
@@ -10,5 +10,8 @@ description: User Commands - Non Admin
 | :--- | :--- |
 | `$server` | Shows Server Info |
 | `$avatar` | Shows Avatar |
-| `$membercount` | Shows Server MemberCount |
+| `$membercount` | Shows Server Member Count |
+| `$botinfo` | Shows Bot Information |
+| `$ping` | Ping The Bot |
+| `$stats` | Shows Strider Statistics \(Servers, Users, Status\)  |
 

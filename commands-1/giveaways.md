@@ -49,7 +49,7 @@
 * Server Join \(Coming Soon\)
 * + Much More 
 
-## Drops
+## Drops \(Coming Soon!\)
 
 | Command | Description |
 | :--- | :--- |
