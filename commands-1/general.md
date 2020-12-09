@@ -15,3 +15,9 @@ description: User Commands
 | `$ping` | Ping The Bot |
 | `$stats` | Shows Strider Statistics \(Servers, Users, Status\)  |
 
+## General Commands
+
+| Command | Description |
+| :--- | :--- |
+| `$covid19` | Shows COVID19 Stats |
+
