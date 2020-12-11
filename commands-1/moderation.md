@@ -31,7 +31,7 @@
 
 | Command | Description |
 | :--- | :--- |
-| $createrole \(RoleName\) | Create a role |
+| `$createrole (RoleName)` | Create a role |
 
 ## Custom Triggers/Commands
 
@@ -41,8 +41,8 @@ Autoresponses are not custom commands, if you want things that are triggered by 
 
 | Command | Description |
 | :--- | :--- |
-| $createtag \(Tag\) \(Content\) | Create a Custom Trigger |
-| $deletetag \(Tag\) | Deletes a Custom Trigger |
+| `$createtag (Tag) (Content)` | Create a Custom Trigger |
+| `$deletetag (Tag)` | Deletes a Custom Trigger |
 
 
 
