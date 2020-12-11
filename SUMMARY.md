@@ -10,7 +10,8 @@
 * [Music Commands](commands-1/music.md)
 * [Moderation Commands](commands-1/moderation.md)
 * [Logging Commands](commands-1/logging-commands.md)
-* [Leveling / Fun Commands](commands-1/fun.md)
+* [Fun Commands](commands-1/fun.md)
+* [Leveling Commands](commands-1/leveling-commands.md)
 * [Giveaways Commands](commands-1/giveaways.md)
 * [AutoMod Commands](commands-1/automod.md)
 

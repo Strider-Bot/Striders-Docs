@@ -1,4 +1,4 @@
-# Leveling / Fun Commands
+# Fun Commands
 
 ## Fun Commands
 
