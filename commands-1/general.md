@@ -14,6 +14,7 @@ description: User Commands
 | `$botinfo` | Shows Bot Information |
 | `$ping` | Ping The Bot |
 | `$stats` | Shows Strider Statistics \(Servers, Users, Status\)  |
+| `$rolelist` | List All Server Roles |
 
 ## General Commands
 
