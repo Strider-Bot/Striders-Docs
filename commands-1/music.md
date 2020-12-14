@@ -10,6 +10,8 @@
 | `$stop` | Stop A Song |
 | `$skip` | Skip A Song |
 | `$lyrics` | Show Current Song Lyrics |
-| `$np` | Shows Now Playing Song |
-| `$q` | Shows The Queue |
+| `$playing` | Shows Now Playing Song |
+| `$queue` | Shows The Queue |
+| `$bump (Queue Number)` | Move Song In Queue |
+| `$search (Song)` | Search For A Song |
 
