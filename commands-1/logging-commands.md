@@ -1,4 +1,4 @@
-# Logging Commands
+# Logging/Settings Commands
 
 ## Logging System 
 
@@ -23,4 +23,11 @@ Channel Creation, Channel Deletion, Guild Ban Add, Guild Ban Remove, Join/Leaves
 | `$welch disable`  | Disable The Welcome Messages |
 | `$leavech enable <#Channel>` | Enable The Leave Message |
 | `$leavech disable` | Disable The Leave Messages |
+
+## Level Up Messages <a id="welcome-leave-messages"></a>
+
+| Command | Description |
+| :--- | :--- |
+| `$level-up-messages enable <#Channel>` | Enables Leave Up Messages |
+| `$level-up-messages disable` | Disables Leave Up Messages |
 
