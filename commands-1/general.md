@@ -15,6 +15,7 @@ description: User Commands
 | `$ping` | Ping The Bot |
 | `$stats` | Shows Strider Statistics \(Servers, Users, Status\)  |
 | `$rolelist` | List All Server Roles |
+| `$whohas (RoleName)` | Whohas Command - Shows Users With That Role |
 
 ## General Commands
 
