@@ -21,5 +21,5 @@ description: User Commands
 
 | Command | Description |
 | :--- | :--- |
-| `$covid19` | Shows COVID19 Stats |
+| `$covid19 (Country)` | Shows COVID19 Stats For A Country |
 
