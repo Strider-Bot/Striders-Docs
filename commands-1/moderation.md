@@ -33,7 +33,7 @@
 | Command | Description |
 | :--- | :--- |
 | `$createrole (RoleName)` | Create a role |
-| `$add-role <@User> (RoleName)` | Add Role To User - Coming Soon! |
+| `$add-role <@User> (Role ID)` | Add Role To User - Coming Soon! |
 
 ## Custom Triggers/Commands
 
