@@ -27,7 +27,7 @@
 | `$voiceunmute (Username/ID)` | Voice UnMute A User |
 | `$voicekick (Username/ID)` | Voice Kick A User |
 
-## Utility Commands
+## Utility/Role Commands
 
 | Command | Description |
 | :--- | :--- |
