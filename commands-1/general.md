@@ -4,7 +4,7 @@ description: User Commands
 
 # Info Commands
 
-## User Commands
+## Server/User Commands
 
 | Command | Description |
 | :--- | :--- |
