@@ -3,7 +3,7 @@
 ## Leveling System
 
 {% hint style="info" %}
-Normal 15% XP Rate and 18% XP Rate Boost After [Voting](https://top.gg/bot/765088908773818378).
+Normal 15% XP Rate and 18% XP Rate Boost After Voting.
 {% endhint %}
 
 | Command | Description |
