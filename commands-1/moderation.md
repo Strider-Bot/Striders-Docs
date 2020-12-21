@@ -32,8 +32,9 @@
 
 | Command | Description |
 | :--- | :--- |
-| `$createrole (RoleName)` | Create a role |
-| `$add-role <@User> (Role ID)` | Add Role To User - Coming Soon! |
+| `$createrole (RoleName)` | Create a Role |
+| `$add-role <@User> (Role ID)` | Add Role To User |
+| `$remove-role <@user> (Role ID)` | Remove Role From User |
 
 ## Custom Triggers/Commands
 
