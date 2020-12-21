@@ -9,7 +9,7 @@
 
 ### Logged Server Events
 
-Channel Creation, Channel Deletion, Guild Ban Add, Guild Ban Remove, Join/Leaves, Kicks, Role Changes, Deleted Messages, Role Creation, Role Modification, Role Deletion. \(More Coming Soon!\)
+Channel Creation, Channel Deletion, Guild Ban Add, Guild Ban Remove, Join Logging, Leave Logging, Kicks, Role Changes, Deleted Messages, Role Creation, Role Modification, Role Deletion. \(More Coming Soon!\)
 
 ![Channel Deleted](../.gitbook/assets/b4ff90c7d2fbc429fadd2b3a048e375c.png)
 

@@ -12,3 +12,10 @@ Normal 15% XP Rate and 18% XP Rate Boost After [Voting](https://top.gg/bot/76508
 | `$leaderboard` | Shows Server Leaderbaord |
 | `$setrank (Username/ID) (New Level)` | Change A Users Level. |
 
+## Leveling Settings <a id="welcome-leave-messages"></a>
+
+| Command | Description |
+| :--- | :--- |
+| `$level-up-messages enable <#Channel>` | Enables Leave Up Messages |
+| `$level-up-messages disable` | Disables Leave Up Messages |
+
