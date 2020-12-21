@@ -4,14 +4,15 @@
 
 | Command | Description |
 | :--- | :--- |
-| `$ban (Username/ID) {Reason}` | Ban A User |
+| `$ban (Username/ID) {Reason}` | Ban a User |
 | `$unban (User ID)` | Unbans a user |
-| `$mute (Username/ID) {Reason}` | Mute A User |
-| `$kick (Username/ID) {Reason}` | Kick A User |
-| `$warn (Username/ID) {Reason}` | Warn A User |
-| `$tempban (Username/ID) (Time)` | Tempban A User |
-| `$tempmute (Username/IDv) (Time)` | Tempmute A User |
-| `$clear (Amount)` | Clear Chat  |
+| `$mute (Username/ID) {Reason}` | Mute a User |
+| `$kick (Username/ID) {Reason}` | Kick a User |
+| `$warn (Username/ID) {Reason}` | Warn a User |
+| `$warns (Username)` | Shows User Warns |
+| `$tempban (Username/ID) (Time)` | Tempban a User |
+| `$tempmute (Username/IDv) (Time)` | Tempmute a User |
+| `$clear (Amount)` | Clear/Purge Chat  |
 | `$slowmode (Amount)` | Turns On Slowmode In Current Channel |
 | `$lock <#Channel>` | Lock Channel |
 | `$unlock <#Channel>` | Unlock Channel |
@@ -21,17 +22,18 @@
 
 | Commands | Description |
 | :--- | :--- |
-| `$deafen (Username/ID)` | Deafen A User |
-| `$undeafen (Username/ID)` | UnDeafen A User |
-| `$voicemute (Username/ID)` | Voice Mute A User |
-| `$voiceunmute (Username/ID)` | Voice UnMute A User |
-| `$voicekick (Username/ID)` | Voice Kick A User |
+| `$deafen (Username/ID)` | Deafen a User |
+| `$undeafen (Username/ID)` | Undeafen a User |
+| `$voicemute (Username/ID)` | Voice Mute a User |
+| `$voiceunmute (Username/ID)` | Voice Unmute a User |
+| `$voicekick (Username/ID)` | Voice Kick a User |
 
 ## Utility/Role Commands
 
 | Command | Description |
 | :--- | :--- |
 | `$createrole (RoleName)` | Create a role |
+| `$add-role <@User> (RoleName)` | Add Role To User - Coming Soon! |
 
 ## Custom Triggers/Commands
 
