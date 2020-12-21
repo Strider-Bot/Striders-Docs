@@ -3,7 +3,7 @@
 ## Giveaways
 
 {% hint style="info" %}
-`MANAGE_MESSAGES` Permissions Required To Start/End A Giveaway
+`MANAGE_MESSAGES` Permissions Required To Start/End a Giveaway
 {% endhint %}
 
 <table>
@@ -26,17 +26,17 @@
     <tr>
       <td style="text-align:left"><code>$greroll (Message ID)</code>
       </td>
-      <td style="text-align:left">Reroll A Giveaway</td>
+      <td style="text-align:left">Reroll a Giveaway</td>
     </tr>
     <tr>
       <td style="text-align:left"><code>$gend (Message ID)</code>
       </td>
-      <td style="text-align:left">End A Giveaway</td>
+      <td style="text-align:left">End a Giveaway</td>
     </tr>
     <tr>
       <td style="text-align:left"><code>$gedit (Message ID)</code>
       </td>
-      <td style="text-align:left">Edit A Giveaway</td>
+      <td style="text-align:left">Edit a Giveaway</td>
     </tr>
   </tbody>
 </table>
