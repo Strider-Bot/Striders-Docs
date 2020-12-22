@@ -13,4 +13,5 @@
 | `$wyr` | Would You Rather |
 | `$playstore (App-Name)` | Search For Play Store App |
 | `$dog` | Shows Dog Images! |
+| `$fortnite-shop` | Shows Daily Fortnite Shop |
 
