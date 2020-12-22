@@ -1,11 +1,20 @@
 # Logging/Settings Commands
 
-## Logging System 
+## Logging Modules 
 
 | Command | Description |
 | :--- | :--- |
-| `$logs enable <#Channel>` | Enable Logging To A Channel |
-| `$logs disable` | Disable Logging |
+|  `$logs-enable server <#Channel>` | Enable Server Updates Logging |
+|  `$logs-enable emoji <#Channel>` | Enable Emoji Updates Logging |
+|  `$logs-enable Role <#Channel>` | Enable Role Updates Logging |
+|  `$logs-enable member <#Channel>` | Enable Member Updates Logging |
+|  `$logs-enable mod <#Channel>` | Enable Mod Updates Logging |
+| _**Disable Commands**_ | _**Description**_ |
+|  `$logs-disable server` | Disable Server Updates Logging |
+|  `$logs-disable emoji` | Disable Emoji Updates Logging |
+|  ****`$logs-disable Role` | Disable Role Updates Logging |
+|  `$logs-disable member` | Disable Member Updates Logging |
+|  `$logs-disable mod` | Disable Mod Updates Logging |
 
 ### Logged Server Events
 
