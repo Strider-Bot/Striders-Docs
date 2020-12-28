@@ -4,6 +4,7 @@
 
 | Command | Description |
 | :--- | :--- |
+|  `$logs-enable all <#Channel>` | Enable All Logging Modules |
 |  `$logs-enable server <#Channel>` | Enable Server Updates Logging |
 |  `$logs-enable emoji <#Channel>` | Enable Emoji Updates Logging |
 |  `$logs-enable Role <#Channel>` | Enable Role Updates Logging |
