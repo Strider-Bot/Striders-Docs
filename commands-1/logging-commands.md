@@ -13,7 +13,7 @@
 | _**Disable Commands**_ | _**Description**_ |
 | `$logs-disable server` | Disable Server Updates Logging |
 | `$logs-disable emoji` | Disable Emoji Updates Logging |
-| _\*\*_`$logs-disable Role` | Disable Role Updates Logging |
+| `$logs-disable Role` | Disable Role Updates Logging |
 | `$logs-disable member` | Disable Member Updates Logging |
 | `$logs-disable mod` | Disable Mod Updates Logging |
 
