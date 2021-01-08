@@ -33,7 +33,6 @@ Channel Creation, Channel Deletion, Guild Ban Add, Guild Ban Remove, Join Loggin
 | `$welch disable` | Disable The Welcome Messages |
 | `$leavech enable <#Channel>` | Enable The Leave Message |
 | `$leavech disable` | Disable The Leave Messages |
-|  |  |
 
 ### _Striders Welcome/Leave Messages_
 
