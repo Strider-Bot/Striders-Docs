@@ -1,21 +1,21 @@
 # Logging/Settings Commands
 
-## Logging Modules 
+## Logging Modules
 
 | Command | Description |
 | :--- | :--- |
-|  `$logs-enable all <#Channel>` | Enable All Logging Modules |
-|  `$logs-enable server <#Channel>` | Enable Server Updates Logging |
-|  `$logs-enable emoji <#Channel>` | Enable Emoji Updates Logging |
-|  `$logs-enable Role <#Channel>` | Enable Role Updates Logging |
-|  `$logs-enable member <#Channel>` | Enable Member Updates Logging |
-|  `$logs-enable mod <#Channel>` | Enable Mod Updates Logging |
+| `$logs-enable all <#Channel>` | Enable All Logging Modules |
+| `$logs-enable server <#Channel>` | Enable Server Updates Logging |
+| `$logs-enable emoji <#Channel>` | Enable Emoji Updates Logging |
+| `$logs-enable Role <#Channel>` | Enable Role Updates Logging |
+| `$logs-enable member <#Channel>` | Enable Member Updates Logging |
+| `$logs-enable mod <#Channel>` | Enable Mod Updates Logging |
 | _**Disable Commands**_ | _**Description**_ |
-|  `$logs-disable server` | Disable Server Updates Logging |
-|  `$logs-disable emoji` | Disable Emoji Updates Logging |
-|  ****`$logs-disable Role` | Disable Role Updates Logging |
-|  `$logs-disable member` | Disable Member Updates Logging |
-|  `$logs-disable mod` | Disable Mod Updates Logging |
+| `$logs-disable server` | Disable Server Updates Logging |
+| `$logs-disable emoji` | Disable Emoji Updates Logging |
+| _\*\*_`$logs-disable Role` | Disable Role Updates Logging |
+| `$logs-disable member` | Disable Member Updates Logging |
+| `$logs-disable mod` | Disable Mod Updates Logging |
 
 ### Logged Server Events
 
@@ -30,7 +30,7 @@ Channel Creation, Channel Deletion, Guild Ban Add, Guild Ban Remove, Join Loggin
 | Command | Description |
 | :--- | :--- |
 | `$welch enable <#Channel>` | Enables Welcome Messages To Channel |
-| `$welch disable`  | Disable The Welcome Messages |
+| `$welch disable` | Disable The Welcome Messages |
 | `$leavech enable <#Channel>` | Enable The Leave Message |
 | `$leavech disable` | Disable The Leave Messages |
 |  |  |
@@ -40,8 +40,6 @@ Channel Creation, Channel Deletion, Guild Ban Add, Guild Ban Remove, Join Loggin
 ![Strider&apos;s Welcome Card](../.gitbook/assets/965cae45e8ae45b5a6c023c406d26f55.png)
 
 ![Strider&apos;s Goodbye Card](../.gitbook/assets/56403c7512f86d37e18b840410e8608a.png)
-
-
 
 ## Level Up Messages <a id="welcome-leave-messages"></a>
 

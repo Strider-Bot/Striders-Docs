@@ -6,7 +6,7 @@
 | :--- | :--- |
 | `$ban (Username/ID) {Reason}` | Ban a User |
 | `$unban (User ID)` | Unbans a user |
-| `$mute (Username/ID) {Reason}` | Mute a User |
+| `$mute (Username/ID) {Reason}` | Mute a User - Currently Disabled |
 | `$kick (Username/ID) {Reason}` | Kick a User |
 | `$warn (Username/ID) {Reason}` | Warn a User |
 | `$warns (Username)` | Shows User Warns |
