@@ -13,4 +13,6 @@
 | `$wyr` | Would You Rather |
 | `$playstore (App-Name)` | Search For Play Store App |
 | `$dog` | Shows Dog Images! |
+| `$joke` | Tells You a Joke |
+| `$fact` | Random Fact |
 
