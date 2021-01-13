@@ -7,8 +7,12 @@
 ## COMMANDS: <a id="commands-1"></a>
 
 * [Info Commands](commands-1/general.md)
-* [Moderation Commands](commands-1/moderation.md)
+* [Moderation](commands-1/moderation/README.md)
+  * [Verification System](commands-1/moderation/verification-system.md)
+  * [Moderation Commands](commands-1/moderation/moderation-commands.md)
+  * [VoiceMod Commands](commands-1/moderation/voicemod-commands.md)
 * [Giveaways Commands](commands-1/giveaways.md)
+* [Role Commands](commands-1/role-commands.md)
 * [Music Commands](commands-1/music.md)
 * [Fun Commands](commands-1/fun.md)
 * [Leveling Commands](commands-1/leveling-commands.md)
