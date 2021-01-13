@@ -22,7 +22,7 @@ Adding Strider will also add a new role specifically made for him. If you do not
 
 ## **Setting Up Swearing AutoMod**
 
-To setup the swearing system for Strider you first have to do `$swear toggle true` **\(by default its turned off\)** and to add a swear word to the database do `$swear add (Word)` and do `$swear delete (Word)` to delete a word from the database, if a swear word is detected in chat it will be deleted and a warning is sent to the user in chat. [AutoMod](commands-1/automod.md#swearing-system)
+To setup the swearing system for Strider you first have to do `$swear toggle true` **\(by default its turned off\)** and to add a swear word to the database do `$swear add (Word)` and do `$swear delete (Word)` to delete a word from the database, if a swear word is detected in chat it will be deleted and a warning is sent to the user in chat. [AutoMod](commands-1/bot-settings/automod.md#swearing-system)
 
 ## Setting Up Server Prefix
 
@@ -30,7 +30,7 @@ To setup per server prefix type `$setprefix ?`in chat and it will change your pr
 
 ## Setting Up Logging
 
-To setup logging in your server use `$logs enable <#channel>`this will enable logging in the channel you put there, this will log all events to this channel this is a Audit Log with more details. To disable logging use `$logs disable` to disable it. [Logging System](commands-1/automod.md#logging-system)
+To setup logging in your server use `$logs enable <#channel>`this will enable logging in the channel you put there, this will log all events to this channel this is a Audit Log with more details. To disable logging use `$logs disable` to disable it. [Logging System](commands-1/bot-settings/automod.md#logging-system)
 
 ## Setting Up Leveling
 

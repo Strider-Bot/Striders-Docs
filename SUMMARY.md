@@ -7,11 +7,14 @@
 ## COMMANDS: <a id="commands-1"></a>
 
 * [Info Commands](commands-1/general.md)
-* [Music Commands](commands-1/music.md)
 * [Moderation Commands](commands-1/moderation.md)
-* [Logging/Settings Commands](commands-1/logging-commands.md)
-* [Fun Commands](commands-1/fun.md)
-* [Leveling Commands](commands-1/leveling-commands.md)
 * [Giveaways Commands](commands-1/giveaways.md)
-* [AutoMod Commands](commands-1/automod.md)
+* [Music Commands](commands-1/music.md)
+* [Fun Commands](commands-1/fun.md)
+* [Bot Settings](commands-1/bot-settings/README.md)
+  * [Logging Settings](commands-1/bot-settings/logging-commands.md)
+  * [Welcome & Leave Messages](commands-1/bot-settings/welcome-and-leave-messages.md)
+  * [Levelling Settings](commands-1/bot-settings/levelling-settings.md)
+  * [AutoMod Commands](commands-1/bot-settings/automod.md)
+* [Leveling Commands](commands-1/leveling-commands.md)
 

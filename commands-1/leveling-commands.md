@@ -19,3 +19,5 @@ Normal 15% XP Rate and 18% XP Rate Boost After Voting.
 | `$level-up-messages enable <#Channel>` | Enables Leave Up Messages |
 | `$level-up-messages disable` | Disables Leave Up Messages |
 
+
+
