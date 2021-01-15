@@ -1,4 +1,0 @@
-# Ticket System
-
-## COMING SOON!
-

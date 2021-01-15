@@ -22,5 +22,4 @@
   * [Welcome & Leave Messages](commands-1/bot-settings/welcome-and-leave-messages.md)
   * [Levelling Settings](commands-1/bot-settings/levelling-settings.md)
   * [AutoMod Commands](commands-1/bot-settings/automod.md)
-* [Ticket System](commands-1/ticket-system.md)
 
