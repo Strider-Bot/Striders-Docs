@@ -22,6 +22,10 @@ Normal 15% XP Rate and 18% XP Rate Boost After Voting.
 | `$level-up-messages enable <#Channel>` | Enables Leave Up Messages |
 | `$level-up-messages disable` | Disables Leave Up Messages |
 
+{% hint style="warning" %}
+For Level Rewards to work the Strider role needs to be above all the Role Rewards, we suggest putting Strider at the top.
+{% endhint %}
+
 ## Level Rewards
 
 | Command | Level / Rank |
