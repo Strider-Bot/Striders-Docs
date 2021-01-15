@@ -11,6 +11,7 @@ Normal 15% XP Rate and 18% XP Rate Boost After Voting.
 | `$rank` | Show's Rank Card |
 | `$leaderboard levels` | Shows Server Leaderbaord |
 | `$setrank (Username/ID) (New Level)` | Change A Users Level. |
+| `$addxp (Username) (New XP)` | Add XP |
 
 ## Leveling Settings <a id="welcome-leave-messages"></a>
 
