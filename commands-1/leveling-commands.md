@@ -1,6 +1,6 @@
 # Leveling Commands
 
-## Leveling System
+## Levelling System
 
 {% hint style="info" %}
 Normal 15% XP Rate and 18% XP Rate Boost After Voting.
@@ -15,7 +15,7 @@ Normal 15% XP Rate and 18% XP Rate Boost After Voting.
 | `$addxp (Username) (New XP)` | Add XP  |
 | `$addlevels (Username) (New XP)` | Add Ranks/Levels |
 
-## Leveling Settings <a id="welcome-leave-messages"></a>
+## Levelling Settings <a id="welcome-leave-messages"></a>
 
 | Command | Description |
 | :--- | :--- |
