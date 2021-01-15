@@ -3,5 +3,5 @@
 | Command | Description |
 | :--- | :--- |
 | `$clyde (Text)` | Clyde Text |
-| $tweet \(Name\) \(Text\) |  |
+| `$tweet (Name) (Text)` | Tweet \(Twitter\) |
 
