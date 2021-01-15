@@ -6,6 +6,8 @@
 
 | Commands | Description |
 | :--- | :--- |
+| `$join` | Joins The VC |
+| `$leave` | Leave The VC |
 | `$play (Song)` | Play A Song |
 | `$stop` | Stop A Song |
 | `$skip` | Skip A Song |
