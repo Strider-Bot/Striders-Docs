@@ -1,7 +1,7 @@
 # Music Commands
 
 {% hint style="info" %}
-`$` Is The Standard Prefix For The Music Commands, It Cannot Be Changed Yet.
+`$` Is The Standard Prefix For The Music Commands, It Cannot Be Changed **Yet.**
 {% endhint %}
 
 | Commands | Description |
