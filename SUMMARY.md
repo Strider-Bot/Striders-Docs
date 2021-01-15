@@ -23,3 +23,7 @@
   * [Levelling Settings](commands-1/bot-settings/levelling-settings.md)
   * [AutoMod Commands](commands-1/bot-settings/automod.md)
 
+---
+
+* [Ticket System](ticket-system.md)
+
