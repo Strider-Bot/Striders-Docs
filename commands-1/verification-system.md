@@ -10,4 +10,9 @@ To setup Strider's Verification System you will first need to make a verificatio
 | :--- | :--- |
 | `$verify` | This will manually verify the user |
 | `$verification` | Shows how to setup verification [\(Steps\)](verification-system.md#setting-up-verification) |
+| `$enable-logs verification <#Channel>` | Verification Logs |
+
+### Preview Of Verification Logs
+
+![](../.gitbook/assets/c2f78852845e44097b4924445793f881.png)
 
