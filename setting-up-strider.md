@@ -26,15 +26,15 @@ To setup the swearing system for Strider you first have to do `$swear toggle tru
 
 ## Setting Up Server Prefix
 
-To setup per server prefix type `$setprefix ?`in chat and it will change your prefix to ? you can change your Prefix to anything by using the same command and change ? to whatever it has a 5 character limit for the size.
+To setup per server prefix type `$prefix ?`in chat and it will change your prefix to _?_ you can change your Prefix to anything by using the same command and change _?_ to whatever it has a 5 character limit for the size.
 
 ## Setting Up Logging
 
-To setup logging in your server use `$logs enable <#channel>`this will enable logging in the channel you put there, this will log all events to this channel this is a Audit Log with more details. To disable logging use `$logs disable` to disable it. [Logging System](commands-1/bot-settings/automod.md#logging-system)
+To setup logging in your server use `$enable-logs <all/verification/server/emoji/role/member/mod> <#channel>` The options in the &lt;option/option&gt; will specify whats logs go where so you could have your Verification Logs seprate from the rest etc, to disabled all Logs you can do `$disable-logs all`
 
 ## Setting Up Leveling
 
-Strider come already setup for Server Levelling when inviting to your server, to check your Level/Rank use `$rank` and to see the server leaderboard use `$leaderboard`  and the XP levels for chatting are random each time so you cant level up loads. For all commands see Levelling Commands.
+Strider come already setup for Server Levelling when inviting to your server, to check your Level/Rank use `$level` and to see the server leaderboard use `$leaderboard levels`  and the XP levels for chatting are random each time so you cant level up loads. For all commands see Levelling Commands.
 
 ## Setting Up Music
 
