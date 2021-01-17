@@ -32,6 +32,10 @@ To setup per server prefix type `$prefix ?`in chat and it will change your prefi
 
 To setup logging in your server use `$enable-logs <all/verification/server/emoji/role/member/mod> <#channel>` The options in the &lt;option/option&gt; will specify whats logs go where so you could have your Verification Logs seprate from the rest etc, to disabled all Logs you can do `$disable-logs all`
 
+## Setting Up Member Verification
+
+To setup Strider's Verification System you will first need to make a verification channel, i have made a channel called _**\#verification**_  now lets do `$verification channel #verification` now that the channel is setup lets setup the role the user will get after they have verified, lets make a role called _**Member**_ and then do `$verification role @Member` now that we've setup the system lets do `$verification enable` to enable it. Now when a new user joins they will only be able to see the _**\#verification**_ channel then they will get a DM to verify there account and will be let into the server, the Pending Verification role is automatically setup once verification is enabled and will isolate new users to the _**\#verification \(Your Verification Channel\)**_ channel until verified.
+
 ## Setting Up Leveling
 
 Strider come already setup for Server Levelling when inviting to your server, to check your Level/Rank use `$level` and to see the server leaderboard use `$leaderboard levels`  and the XP levels for chatting are random each time so you cant level up loads. For all commands see Levelling Commands.
