@@ -2,7 +2,7 @@
 
 ## Setting Up Verification
 
-To get started first do `$verification role <@Role>` This will be the role given after the user has verified, then we go onto setting up the Verification Channel, `$verification channel #Channel` this is where the users will get Verified from, then to enable it use `$verification enable` now all members will have to verify before accessing the server! 
+To setup Strider's Verification System you will first need to make a verification channel, i have made a channel called _**\#verification**_  now lets do `$verification channel #verification` now that the channel is setup lets setup the role the user will get after they have verified, lets make a role called _**Member**_ and then do `$verification role @Member` now that we've setup the system lets do `$verification enable` to enable it. Now when a new user joins they will only be able to see the _**\#verification**_ channel then they will get a DM to verify there account and will be let into the server, the Pending Verification role is automatically setup once verification is enabled and will isolate new users to the _**\#verification \(Your Verification Channel\)**_ channel until verified.
 
 ## Verification Commands
 
