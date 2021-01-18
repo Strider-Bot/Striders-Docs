@@ -17,6 +17,7 @@
 | `$logs-disable Role` | Disable Role Updates Logging |
 | `$logs-disable member` | Disable Member Updates Logging |
 | `$logs-disable mod` | Disable Mod Updates Logging |
+| `$logs-disable verification`  | Disable Verification Logging |
 
 ### Logged Server Events
 
