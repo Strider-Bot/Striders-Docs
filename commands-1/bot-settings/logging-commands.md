@@ -10,7 +10,7 @@
 | `$logs-enable Role <#Channel>` | Enable Role Updates Logging |
 | `$logs-enable member <#Channel>` | Enable Member Updates Logging |
 | `$logs-enable mod <#Channel>` | Enable Mod Updates Logging |
-| `$enable-logs verification <#Channel>` | Enable Verification Logs |
+| `$logs-enable verification <#Channel>` | Enable Verification Logs |
 | _**Disable Commands**_ | _**Description**_ |
 | `$logs-disable server` | Disable Server Updates Logging |
 | `$logs-disable emoji` | Disable Emoji Updates Logging |
