@@ -14,5 +14,5 @@ To setup Strider's Verification System you will first need to make a verificatio
 
 ### Preview Of Verification Logs
 
-![](../.gitbook/assets/c2f78852845e44097b4924445793f881.png)
+![Preview Of Logging System For Verification](../.gitbook/assets/b63216d914ba2bbe9818867c0996cd06.png)
 
