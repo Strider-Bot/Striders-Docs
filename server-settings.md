@@ -1,6 +1,6 @@
 # Privacy Policy
 
-At Team Strider your privacy is one of our top priorities. This Privacy Policy contains types of information that is collected by Team Tritan and its services Strider Team along with how we use it.
+At Team Strider your privacy is one of our top priorities. This Privacy Policy contains types of information that is collected by Team Strider and its services along with how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, please email us at support@striderbot.net
 
