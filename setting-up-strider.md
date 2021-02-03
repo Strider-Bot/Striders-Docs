@@ -38,7 +38,7 @@ To setup Strider's Verification System you will first need to make a verificatio
 
 ## Setting Up Leveling
 
-Strider come already setup for Server Levelling when inviting to your server, to check your Level/Rank use `$level` and to see the server leaderboard use `$leaderboard levels`  and the XP levels for chatting are random each time so you cant level up loads. For all commands see Levelling Commands.
+Strider come already setup for Server Leveling when inviting to your server, to check your Level/Rank use `$level` and to see the server leaderboard use `$leaderboard levels`  and the XP levels for chatting are random each time so you cant level up loads. For all commands see Levelling Commands.
 
 ## Setting Up Music
 
