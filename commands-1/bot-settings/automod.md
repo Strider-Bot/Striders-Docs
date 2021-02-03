@@ -9,5 +9,10 @@
 | `$swear add (Word)` | Add Word To Swear List |
 | `$swear delete (Word)` | Delete Word From Swear List |
 
+## AntiInvite System
 
+| Command | Description |
+| :--- | :--- |
+| `$antiinvite enable` | Enable AntiInvite |
+| `$antiinvite disable` | Disable AntiInvite |
 
