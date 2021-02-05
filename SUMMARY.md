@@ -22,4 +22,5 @@
   * [Welcome & Leave Messages](commands-1/bot-settings/welcome-and-leave-messages.md)
   * [Levelling Settings](commands-1/bot-settings/levelling-settings.md)
   * [AutoMod Commands](commands-1/bot-settings/automod.md)
+  * [Starboard Commands](commands-1/bot-settings/starboard-commands.md)
 
