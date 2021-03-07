@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Privacy Policy](server-settings.md)
+* [Privacy Policy](privacy-policy.md)
 * [Setup](setting-up-strider.md)
 
 ## COMMANDS: <a id="commands-1"></a>
